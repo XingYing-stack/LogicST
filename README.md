@@ -1,6 +1,6 @@
 # LogicST: A Logical Self-Training Framework for Document-Level Relation Extraction with Incomplete Annotations
 
-This repository contains the code for the paper "LogicST: A Logical Self-Training Framework for Document-Level Relation Extraction with Incomplete Annotations," which is currently under review.
+This repository contains the code for the paper "LogicST: A Logical Self-Training Framework for Document-Level Relation Extraction with Incomplete Annotations," which is accpeted by EMNLP 2024 main conference as a long paper.
 
 ## Requirements
 
